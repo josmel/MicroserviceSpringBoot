@@ -1,4 +1,4 @@
-package com.service.controller;
+package com.service.serviceproduct.controller;
 
 import java.util.ArrayList;
 import java.util.List;
